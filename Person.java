@@ -1,5 +1,6 @@
 /**
  * A class to model a Person.
+ * This class is provided as is and is NOT part of the lab submission.
  * 
  * @author Gary Tong
  * @version 1.0
